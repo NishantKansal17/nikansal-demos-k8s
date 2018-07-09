@@ -1,0 +1,5 @@
+spring-boot-vuejs/backend/target
+spring-boot-vuejs/frontend/target
+spring-boot-vuejs/frontend/node_modules
+spring-boot-vuejs/frontend/node
+spring-boot-vuejs/frontend/test
